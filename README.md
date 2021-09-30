@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathyad4ubcexpert
 - 👀 I’m interested in working on Data Analytics and Machine Learning projects.
-- 🌱 I’m currently learning Deep Learning using Tensorflow.
+- 🌱 I’m currently learning Deep Learning.
 - 📫 Reach me out on gmail: sathyad4ubcexpert@gmail.com
 
 <!---
